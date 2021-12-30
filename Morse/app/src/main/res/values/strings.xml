@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Morse</string>
+    <string name="morse">Morse</string>
+    <string name="text">text</string>
+    <string name="convert">Convert</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="vibration">Vibration</string>
+</resources>
